@@ -352,5 +352,3 @@ Potential extensions include:
 ## Author
 
 **Rahul Kumar Nelakurthi**
-
-Data Engineering Portfolio Project
